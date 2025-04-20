@@ -77,3 +77,10 @@ The dataset contains user-level analytics from an ecommerce website. Each record
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
+```
+
+3.Launch Jupyter:
+```bash
+jupyter notebook
+```
+4.Open and run linear_regression.ipynb
